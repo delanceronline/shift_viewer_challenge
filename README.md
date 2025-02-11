@@ -1,17 +1,12 @@
 # shift_viewer_app
 
-A new Flutter project.
+This is the code test for being a Fluttter developer. 
+Tim has complete this according to the specification.
 
-## Getting Started
+email: fai421@gmail.com 
 
-This project is a starting point for a Flutter application.
+## Video
 
-A few resources to get you started if this is your first Flutter project:
+In this video, it shows how the app responses upon different device's location by mocking up the location service in the simulator. In addition, the date and time were modified to check the response in the app, testing the boundary cases like 12:44, 12:46, 13:01, 17:44, 17:46, 18:14, 18:16 etc... From the specification, it should be within startTime - 15 minutes to startTime and endTime +- 15 minutes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# shift_viewer_challenge
+https://youtu.be/CIM7DyvcT1U
